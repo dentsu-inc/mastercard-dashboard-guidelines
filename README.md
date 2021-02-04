@@ -1,2 +1,9 @@
-# mastercard-dashboard-guidelines
-Design guidelines for the Mastercard DOMO dashboards.
+# Design Guidelines
+These guidelines are for mastercard lac dashboards.
+
+- Themes and colors
+- Layouts
+- Titles
+- Headers
+
+## Themes
