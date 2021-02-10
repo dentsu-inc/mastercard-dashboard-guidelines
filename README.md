@@ -17,10 +17,10 @@ Element | Color (HEX)
 Dashboard Background Color | ![#0A2533](https://via.placeholder.com/15/0A2533/000000?text=+) `#0A2533`
 Card Background Color | ![#0D2F40](https://via.placeholder.com/15/0D2F40/000000?text=+) `#0D2F40`
 Note Background Color | ![#AEE6F2](https://via.placeholder.com/15/AEE6F2/000000?text=+) `#AEE6F2`
-Note Font Color | ![#4A4A4A](https://via.placeholder.com/15/4A4A4A/000000?text=+) `4A4A4A`
+Note Font Color | ![#4A4A4A](https://via.placeholder.com/15/4A4A4A/000000?text=+) `#4A4A4A`
 Filter Selection Color | ![#1DDDF2](https://via.placeholder.com/15/1DDDF2/000000?text=+) `#1DDDF2`
 Card Font Color (where applicable) | ![#F2F2F2](https://via.placeholder.com/15/F2F2F2/000000?text=+) `#F2F2F2`  
-
+<!-- 
 &nbsp;
 #### Data Visualization Colors
 Colors preferred for data visualizations. 
@@ -49,7 +49,7 @@ Preview | Color (HEX)
 ![#998F84](https://via.placeholder.com/15/998F84/000000?text=+) | `#998F84`
 ![#B0B5BF](https://via.placeholder.com/15/B0B5BF/000000?text=+) | `#B0B5BF`
 ![#7DA626](https://via.placeholder.com/15/7DA626/000000?text=+) | `#7DA626`
-![#BFAE99](https://via.placeholder.com/15/BFAE99/000000?text=+) | `#BFAE99`
+![#BFAE99](https://via.placeholder.com/15/BFAE99/000000?text=+) | `#BFAE99` -->
 
 &nbsp;
 ### Light Theme
@@ -61,7 +61,7 @@ Element | Color (HEX)
 Dashboard Background Color | ![#DFE3E4](https://via.placeholder.com/15/DFE3E4/000000?text=+) `#DFE3E4`
 Card Background Color | ![#EBEFF0](https://via.placeholder.com/15/EBEFF0/000000?text=+) `#EBEFF0`
 Note Background Color | ![#AEE6F2](https://via.placeholder.com/15/AEE6F2/000000?text=+) `#AEE6F2`
-Note Font Color | ![#4A4A4A](https://via.placeholder.com/15/4A4A4A/000000?text=+) `4A4A4A`
+Note Font Color | ![#4A4A4A](https://via.placeholder.com/15/4A4A4A/000000?text=+) `#4A4A4A`
 Filter Selection Color | ![#1DDDF2](https://via.placeholder.com/15/1DDDF2/000000?text=+) `#1DDDF2`
 Card Font Color (where applicable) | ![#F2F2F2](https://via.placeholder.com/15/F2F2F2/000000?text=+) `#F2F2F2`
 
